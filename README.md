@@ -5,3 +5,6 @@ Proyecto final Coursera - Data Science
 He tenido que agregar manualmente el archivo ya que se me acabo el tiempo en watson studio, asi que te pido y revises el cuaderno que esta subido aqui como [coursera_capstone - proyecto final](https://github.com/hstanleycrow/Coursera_Capstone/blob/master/coursera_capstone%20-%20proyecto%20final.ipynb)
 
 Encuentra en este enlace la [batalla de los vecindarios](https://github.com/hstanleycrow/Coursera_Capstone/blob/master/La%20Batalla%20de%20los%20Vecindarios.ipynb)
+
+## NO TENGO ACCESO A WATSON STUDIO POR CONSUMIR EL LIMITE MENSUAL
+Asi que dejo por aqui el enlace a la [tarea fina](https://github.com/hstanleycrow/Coursera_Capstone/blob/master/Capstone_The-Battle-of-the-Neighborhoods.ipynb) aqui en Github, espero me puedas calificar.
