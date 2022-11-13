@@ -7,6 +7,8 @@ He tenido que agregar manualmente el archivo ya que se me acabo el tiempo en wat
 Encuentra en este enlace la [batalla de los vecindarios](https://github.com/hstanleycrow/Coursera_Capstone/blob/master/La%20Batalla%20de%20los%20Vecindarios.ipynb)
 
 ## NO TENGO ACCESO A WATSON STUDIO POR CONSUMIR EL LIMITE MENSUAL
+## <span style="color:blue">**Todos los que califique, lo hare bien, porque supongo que todos han pasado por lo mismo, asi que ayudare tambien.**</span>
+
 ### Notebook
 Asi que dejo por aqui el enlace a la [tarea fina](https://github.com/hstanleycrow/Coursera_Capstone/blob/master/Capstone_The-Battle-of-the-Neighborhoods.ipynb) aqui en Github, espero me puedas calificar.
 
